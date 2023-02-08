@@ -1,5 +1,6 @@
-# cheetsheet
-数据科学工具库API清单
+# Data Science Cheatsheets
+
+数据科学备忘录
 
 ## 自制cheatsheets
 - [Streamlit](https://github.com/coggle-club/cheetsheets/blob/main/streamlit-cheetsheet.pdf)
